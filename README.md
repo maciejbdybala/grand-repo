@@ -6,4 +6,6 @@ Repository to track progress towards a career in data engineering, science or an
 
 Recently I have read through the [Quality assurance of code for analysis and research](https://best-practice-and-impact.github.io/qa-of-code-guidance/intro.html "duck book") also known as the 'duck book'. I greatly enjoyed that read and settled on readng more such overarching documents. Today I am reading throught the [GitHub and Git guidance](https://docs.github.com/en/get-started).
 
-I have finally plugged my laptop to the second screen to start working on this more seriously but then got stuck in a major way as the second (big) screen resolution is about 1200x800 and I cannot figure out how to change it. After several hours of trying, I am now going to try installing Ubuntu 20.04 instead of ubuntu 22.04 and see if this helps.
+I have finally plugged my laptop to the second screen to start working on this more seriously but then got stuck in a major way as the second (big) screen resolution is about 1200x800 and I cannot figure out how to change it. After several hours of trying, I am now going to try installing Ubuntu 20.04 instead of ubuntu 22.04 and see if this helps...
+
+...retained Ubuntu 22.04 and managed to put together a solution! I think this is relevant enough for writing a separate piece about which I will now procede to doing.
