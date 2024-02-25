@@ -14,6 +14,7 @@ So for the nearest time, the two tasks are:
 
 As I have been setting up RStudio, it occurred to me that Ubuntu partition is rather small and I will potentially run out of space doing various analyses. I am going to split partitions more or less equally between Windows and Ubuntu, but in order to do that I should create a mirror image of Windows on my hard drive.
 * So I now have my Windows backed up on an external hard drive. Since Ubuntu is freshly installed and yesterday I had been mostly battling with setting the resolution of second screen going, I am going to reinstall Ubuntu and set the partition there.
+  * ETA: managed to sort out the partitions with booting Ubuntu from USB stick and using GParted. I also created a 11GB swap partition to aid my 12GB RAM.
 
 **2024-02-24**: I set out to learn a collection of techniques and familiarize myself with tools to become a competent worker in the area of data in the shortest time possible. This builds on my experiences as an Assistant Statistician within the Scottish Government where I currently spend a good portion of my time working in PowerBI and R. I am also a participant of the Office for National Statistics Data Science Graduate Programme 2023-2025 and I hope this to be my main tool in the transition.
 
