@@ -4,7 +4,7 @@ Repository to track progress towards a career in data engineering, science or an
 
 **2024-02-29** 
 
-The [SQL for R Users](https://github.com/dlab-berkeley/sql-for-r-users) was informative. Tonight I am going to read through this article - [the origin of SQL](https://dl.acm.org/doi/pdf/10.1145/362384.362685)
+The [SQL for R Users](https://github.com/dlab-berkeley/sql-for-r-users) was informative. Tonight I am going to read through this article - [the origin of SQL](https://dl.acm.org/doi/pdf/10.1145/362384.362685). ETA: Have read about 2/3 of it, understood some bits to do with how data had been previously stored as trees (as in mathematics). Another addition, I think perhaps I will develop this into a static Quarto blog and then I will have a subpage with interesting links - this is one interesting link: [The Popularity of Data Science Software](https://r4stats.com/articles/popularity/).
 * continue reading [GitHub and Git guidance](https://docs.github.com/en/get-started)
 * to do: produce a CV in [Quarto](https://quarto.org/docs/computations/r.html)
   * a template from [Schochastics](http://archive.schochastics.net/post/create-a-cv-with-quarto/)
