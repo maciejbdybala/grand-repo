@@ -1,10 +1,10 @@
 # Grand Repository to document my journey
 
-Repository to track progress towards a career in data engineering, science or analysis. 
+Repository to track progress towards a career in data engineering, science or analysis. This I think is more for myself than anyone else, but I keep it public anyway.
 
 **2024-03-04** 
 
-* I continue reading [GitHub and Git guidance](https://docs.github.com/en/get-started)
+* I continue reading [GitHub and Git guidance](https://docs.github.com/en/get-started) - this is a long read! I am now at [Communicating on GitHub](https://docs.github.com/en/get-started/using-github/communicating-on-github)
 * Actually, I should also do a little work on an assignment I have for the [Computational Applied Mathematics](https://www.open.ac.uk/courses/modules/mst374) course I am doing. Deadline for this is 10 April 2024.
   *  This is actually a project in itself, to put some Python code I write for that course on GitHub. But then again, in order to do that, I need to properly go through the guide from above.
 * I got registered with education.gituhb.com as I am doing the above mentioned module. I am awaiting the 'benefits' tab to be updated and will then aim to integrate it with GitHub
