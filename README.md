@@ -6,6 +6,8 @@ Repository to track progress towards a career in data engineering, science or an
 
 * Linked Git with GitHub now and writing this bullet point in nano from within git bash. I am going to save this now, add and commit and then push back onto GitHub.
   * and succeded! 🎉
+* [GitHub and Git guidance](https://docs.github.com/en/get-started) continues to be a great read, I am now reading on Git and further will read on exlopring integrations.
+* However, I just got a student account on education.github.com due to the fact that I am the Open University student - so will play around with copilot for the rest of the evening.
 
 **2024-03-06** 
 
