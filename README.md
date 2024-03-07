@@ -2,10 +2,13 @@
 
 Repository to track progress towards a career in data engineering, science or analysis. This I think is more for myself than anyone else, but I keep it public anyway.
 
+**2024-03-07**
+
+* Linked Git with GitHub now and writing this bullet point in nano from within git bash. I am going to save this now, add and commit and then push back onto GitHub.
+
 **2024-03-06** 
 
 * Continued reading [GitHub and Git guidance](https://docs.github.com/en/get-started) - went as far as [Accessibility](https://docs.github.com/en/get-started/accessibility/managing-your-theme-settings)
-
 
 **2024-03-04** 
 
