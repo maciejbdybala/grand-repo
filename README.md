@@ -5,6 +5,7 @@ Repository to track progress towards a career in data engineering, science or an
 **2024-03-07**
 
 * Linked Git with GitHub now and writing this bullet point in nano from within git bash. I am going to save this now, add and commit and then push back onto GitHub.
+  * and succeded! 🎉
 
 **2024-03-06** 
 
