@@ -2,6 +2,11 @@
 
 Repository to track progress towards a career in data engineering, science or analysis. This I think is more for myself than anyone else, but I keep it public anyway.
 
+**2024-03-13**
+
+* The last few days I have been working on non-linear optimization problems as part of the [Computational Applied Mathematics](https://www.open.ac.uk/courses/modules/mst374) course I am doing.
+* In the context of this project, I have been making my way through [the book on Git](https://git-scm.com/book/en/v2).
+
 **2024-03-09**
 
 * I managed to delete the old commits where I created separate .md files for each day. It looks cleaner now! I used git rebase for that. 
