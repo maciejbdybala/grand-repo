@@ -2,6 +2,10 @@
 
 Repository to track progress towards a career in data engineering, science or analysis. This I think is more for myself than anyone else, but I keep it public anyway.
 
+**2024-03-23**
+
+* I am halfway through my second-to-last assignment for the [Computational Applied Mathematics](https://www.open.ac.uk/courses/modules/mst374) course I am doing. After this one there will be a final one, and after that I think I will continue learning independently. There is lots of stuff I work on that can be much improved, so I will be concentrating on that.
+
 **2024-03-13**
 
 * The last few days I have been working on non-linear optimization problems as part of the [Computational Applied Mathematics](https://www.open.ac.uk/courses/modules/mst374) course I am doing.
