@@ -4,6 +4,11 @@ Repository to track progress towards a career in data engineering, science or an
 
 **2024-03-23**
 
+* done with non-linear optimisation, looking at solving differential equations numerically using Python.
+  * to do: post my Python code on GitHub to showcase skills.
+
+**2024-03-23**
+
 * I am halfway through my second-to-last assignment for the [Computational Applied Mathematics](https://www.open.ac.uk/courses/modules/mst374) course I am doing. After this one there will be a final one, and after that I think I will continue learning independently. There is lots of stuff I work on that can be much improved, so I will be concentrating on that.
 
 **2024-03-13**
