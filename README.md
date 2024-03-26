@@ -2,7 +2,7 @@
 
 Repository to track progress towards a career in data engineering, science or analysis. This I think is more for myself than anyone else, but I keep it public anyway.
 
-**2024-03-23**
+**2024-03-26**
 
 * done with non-linear optimisation, looking at solving differential equations numerically using Python.
   * to do: post my Python code on GitHub to showcase skills.
