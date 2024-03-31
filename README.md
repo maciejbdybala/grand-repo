@@ -2,6 +2,11 @@
 
 Repository to track progress towards a career in data engineering, science or analysis. This I think is more for myself than anyone else, but I keep it public anyway.
 
+**2024-03-31**
+
+* Done with solving differential equations numerically using Python for my assignment, I am looking at random processes now. This should be relatively straightforward given previous knowledge. I also gained access to the end of module assignment which is a more independent piece of work. I am going to choose a case study in integer programming. This has many applications in management science and related areas, for example planning the best order in which to visit a number of locations, or scheduling the use of resources. It comes across as a bread-and-butter optimisation problem.
+  * to do: post my Python code on GitHub to showcase skills. I should definitely do it!
+
 **2024-03-26**
 
 * done with non-linear optimisation, looking at solving differential equations numerically using Python.
