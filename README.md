@@ -4,6 +4,13 @@ Repository to track progress towards a career in data engineering, science or an
 
 **2024-03-31**
 
+* Done with questions on random processes, glad I am becoming fluent in Python. I am reading on the final assignment material. While the Ising model is fascinating, I think given my current circumastances I am still going to choose working on a case study in integer programming. A lot of show-and-tell, and I can potentially apply it to both my work and life outside work.
+* I installed Obsidian and am looking to start taking notes using it. Thinking how to integrate this journalling with Obsidian note-taking.
+  * to do: post my Python code on GitHub to showcase skills.
+
+
+**2024-03-31**
+
 * Done with solving differential equations numerically using Python for my assignment, I am looking at random processes now. This should be relatively straightforward given previous knowledge. I also gained access to the end of module assignment which is a more independent piece of work. I am going to choose a case study in integer programming. This has many applications in management science and related areas, for example planning the best order in which to visit a number of locations, or scheduling the use of resources. It comes across as a bread-and-butter optimisation problem.
   * to do: post my Python code on GitHub to showcase skills. I should definitely do it!
 
