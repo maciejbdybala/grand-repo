@@ -2,6 +2,13 @@
 
 Repository to track progress towards a career in data engineering, science or analysis. This I think is more for myself than anyone else, but I keep it public anyway.
 
+**2024-04-18**
+
+* Next-to-last assignment for my Applied Computational Mathematics module is now submitted and I am working on the last assignment. 
+* Yet to start using Obsidian for note taking.
+  * to do: post my Python code on GitHub to showcase skills.
+
+
 **2024-03-31**
 
 * Done with questions on random processes, glad I am becoming fluent in Python. I am reading on the final assignment material. While the Ising model is fascinating, I think given my current circumastances I am still going to choose working on a case study in integer programming. A lot of show-and-tell, and I can potentially apply it to both my work and life outside work.
