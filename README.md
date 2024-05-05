@@ -2,6 +2,13 @@
 
 Repository to track progress towards a career in data engineering, science or analysis. This I think is more for myself than anyone else, but I keep it public anyway.
 
+**2024-05-05**
+
+* I got 99% for my next-to-last computational applied mathematics assignment.
+* Currently working on the last assignment, applying integer programming in Python to covering set problems and travelling salesperson problems.
+* Yet to start using Obsidian for note taking.
+  * to do: post my Python code on GitHub to showcase skills.
+
 **2024-04-18**
 
 * Next-to-last assignment for my Applied Computational Mathematics module is now submitted and I am working on the last assignment. 
