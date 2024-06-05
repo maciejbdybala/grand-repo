@@ -2,6 +2,13 @@
 
 Repository to track progress towards a career in data engineering, science or analysis. This I think is more for myself than anyone else, but I keep it public anyway.
 
+**2024-06-05**
+
+* Finished last assignment for MST374 - applying integer programming in Python to covering set problems and travelling salesperson problems.
+* Yet to start using Obsidian for note taking.
+  * to do: post my Python code on GitHub to showcase skills.
+
+
 **2024-05-05**
 
 * I got 99% for my next-to-last computational applied mathematics assignment.
